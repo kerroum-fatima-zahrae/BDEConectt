@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BDEConnect
 
 ## Installation
@@ -16,3 +17,6 @@ php artisan serve
 |---------|---------------------|--------------|
 | Admin   | admin@bde.ma        | password     |
 | Étudiant| etudiant1@bde.ma    | password     |
+=======
+# BDEConectt
+>>>>>>> 64cf1e62befa6335f1daf9c358534730d8f15f56
